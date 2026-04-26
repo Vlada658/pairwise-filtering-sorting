@@ -19,3 +19,5 @@
  **Проверяемые пользовательские истории и требования:**  
 - **Требование на фильтрацию товаров**👉 https://rusau.kaiten.ru/p/d/5b275ec1-e6df-47a4-9648-d422f4a387f3
 - **Требование на сортировку товаров** 👉 https://rusau.kaiten.ru/p/d/705e06d8-971f-4e0a-b8de-7e13befcc7a3
+
+Результат: https://docs.google.com/spreadsheets/d/12QjegoFIwdr8tZZYCcfhYx_lLLSnKXDoCpjG7bv-C8E/edit?usp=sharing
